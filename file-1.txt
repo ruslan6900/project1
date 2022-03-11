@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 poca-popka
+=======
+hello prey
+>>>>>>> parent of dd23dd9 (delete and record)
